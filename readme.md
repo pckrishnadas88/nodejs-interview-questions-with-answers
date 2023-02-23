@@ -10,5 +10,5 @@ These are various interview questions with answers collected from various resour
   <summary>2. How does Node.js works(Event loop Explained)</summary>
   This is best explained in this video.
 
-  [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ/).
+  [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w).
 </details>
