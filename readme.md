@@ -44,7 +44,7 @@ moreWork(); // will run before console.log
 </details>
 <details>
   <summary>5. Where Node.js is frequently used</summary>
-  
+
   1. Real-time chats
   2. Internet of Things
   3. Complex SPAs (Single-Page Applications)
@@ -52,3 +52,9 @@ moreWork(); // will run before console.log
   5. Streaming applications
   6. Microservices architecture
 </details>
+<details>
+  <summary>6.  What do you understand by the term I/O?</summary>
+  The term I/O stands for input and output. It is used to access anything outside of your application. The I/O describes any program, operation, or device that transfers data to or from a medium or another medium. This medium can be a physical device, network, or files within a system.
+
+  I/O is loaded into the machine memory to run the program once the application starts.
+<details>
