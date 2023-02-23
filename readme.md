@@ -8,5 +8,6 @@ These are various interview questions with answers collected from various resour
 </details>
 <details>
   <summary>2. How does Node.js works(Event loop Explained)</summary>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PNa9OMajw9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  This is best explained in the video.
+  [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ/ "What the heck is the event loop anyway? | Philip Roberts | JSConf EU").
 </details>
