@@ -26,6 +26,8 @@ Using the File System module as an example, this is a synchronous file read:
 ```js
 const fs = require("fs");
 const data = fs.readFileSync("/file.md"); // blocks here until file is read
+console.log(data);
+moreWork(); // will run after console.log
 ```
 
 ## Non blocking code example
@@ -34,6 +36,9 @@ const data = fs.readFileSync("/file.md"); // blocks here until file is read
 const fs = require("fs");
 fs.readFile("/file.md", (err, data) => {
   if (err) throw err;
+  console.log(data);
 });
+moreWork(); // will run before console.log
 ```
+[Read more about this](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/) 
 </details>
