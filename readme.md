@@ -57,4 +57,4 @@ moreWork(); // will run before console.log
   The term I/O stands for input and output. It is used to access anything outside of your application. The I/O describes any program, operation, or device that transfers data to or from a medium or another medium. This medium can be a physical device, network, or files within a system.
 
   I/O is loaded into the machine memory to run the program once the application starts.
-<details>
+</details>
