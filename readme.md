@@ -42,3 +42,13 @@ moreWork(); // will run before console.log
 ```
 [Read more about this](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/) 
 </details>
+<details>
+  <summary>5. Where Node.js is frequently used</summary>
+  
+  1. Real-time chats
+  2. Internet of Things
+  3. Complex SPAs (Single-Page Applications)
+  4. Real-time collaboration tools
+  5. Streaming applications
+  6. Microservices architecture
+</details>
