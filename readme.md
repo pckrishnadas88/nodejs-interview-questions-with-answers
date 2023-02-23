@@ -13,12 +13,6 @@ These are various interview questions with answers collected from various resour
   [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w).
 </details>
 <details>
-  <summary>2. How does Node.js works(Event loop Explained)</summary>
-  This is best explained in this video.
-
-  [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w).
-</details>
-<details>
   <summary>3. Explain callback in Node.js</summary>
  A callback is a function called when the task finishes, and a callback function allows other code to run in the meantime. Using the Callback concept, Node.js can process many requests without waiting for any function to return the result, making Node.js highly scalable.
 </details>
