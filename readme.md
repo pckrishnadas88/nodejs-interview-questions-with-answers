@@ -8,6 +8,7 @@ These are various interview questions with answers collected from various resour
 </details>
 <details>
   <summary>2. How does Node.js works(Event loop Explained)</summary>
-  This is best explained in the video.
+  This is best explained in this video.
+
   [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ/).
 </details>
